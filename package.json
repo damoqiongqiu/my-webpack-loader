@@ -1,0 +1,11 @@
+{
+    "name": "my-webpack-loader",
+    "version": "0.0.1",
+    "description": "编写一个自己的 webpack loader",
+    "keywords": [
+        "webpack"
+    ],
+    "main": "index.js",
+    "author": "大漠穷秋",
+    "license": "MIT"
+}
